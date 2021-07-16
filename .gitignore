@@ -1,0 +1,7 @@
+.gitignore
+venv
+.idea
+mysite/settings.py
+settings
+db.sqlite3
+mysite/_pycache/
