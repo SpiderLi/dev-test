@@ -16,4 +16,6 @@ if __name__ == '__main__':
         '欢迎访问',
         'guangqiangli001@sina.com',
         ['zengyisi@netseekgaming.com'],
-
+    )
+    print("dafdfadf")
+    print("tetwste")
